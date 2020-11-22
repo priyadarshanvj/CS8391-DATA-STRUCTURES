@@ -58,7 +58,7 @@ void display()
     }
     else
     {
-        printf("\The values are:");
+        printf("\nThe values are:");
         while(ptr!=NULL)
         {
             printf("\n%d\n",ptr->value);
